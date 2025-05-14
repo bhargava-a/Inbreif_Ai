@@ -1,8 +1,8 @@
-<h1 align="center">🎬 Video Summarizer with Whisper & BART</h1>
+<h1 align="center">Inbrief_Ai - Video Summarizer </h1>
 <p align="center"><i>Transcribe any video and summarize it intelligently using OpenAI Whisper + Facebook BART</i></p>
 <hr>
 
-<h2>✨ Overview</h2>
+<h2> Overview</h2>
 <p>This tool extracts speech from videos, converts it into text using <b>OpenAI Whisper</b>, and summarizes the text using <b>Facebook's BART Transformer</b>.</p>
 <ul>
   <li>⚙️ Runs on CPU or GPU</li>
@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2>🚀 Features</h2>
+<h2> Features</h2>
 <ul>
   <li>🎧 Audio extraction from videos using <code>FFmpeg</code></li>
   <li>🗣️ Accurate speech-to-text transcription via Whisper</li>
@@ -74,7 +74,7 @@ tqdm
 
 <hr>
 
-<h2>🧠 Tech Stack</h2>
+<h2> Tech Stack</h2>
 <ul>
   <li><a href="https://github.com/openai/whisper" target="_blank">Whisper (OpenAI)</a></li>
   <li><a href="https://huggingface.co/facebook/bart-large-cnn" target="_blank">Transformers – facebook/bart-large-cnn</a></li>
